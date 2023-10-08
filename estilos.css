@@ -1,0 +1,16 @@
+
+.card {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.carousel-img {
+    max-height: 100vh;
+    object-fit: cover;
+}
+
+.footer {
+    background-color: cadetblue;
+    height: 80px;
+    padding-top: 25px;
+}
