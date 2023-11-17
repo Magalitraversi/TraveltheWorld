@@ -3,6 +3,19 @@
     margin-top: 50px;
     margin-bottom: 50px;
 }
+.fondo {
+    background-image: url("fondo-reservas.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background: transparent;
+}
+.container {
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+   
+}
 
 .carousel-img {
     max-height: 100vh;
